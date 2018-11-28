@@ -1,0 +1,5 @@
+Welcome to the cipher world!
+This is only a test file for encryption or decryption.
+Now,
+Choose the algorithm that you want to encrypt or decrypt.
+Please follow the instruction!
